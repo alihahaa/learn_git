@@ -7,3 +7,4 @@ c = 1
 d = "ss"
 with tf.Session()as sess:
    b = sess.run(a)
+   e = 1
