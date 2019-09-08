@@ -3,9 +3,7 @@ import tensorflow as tf
 
 a = tf.constant(1)
 
-print(a)
-print("first commit")
-print("first commit on dev")
-print("add in master")
-print("add in master")
-print("add in dev")
+c = 1
+d = "ss"
+with tf.Session()as sess:
+   b = sess.run(a)
