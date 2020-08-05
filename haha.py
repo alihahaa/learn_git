@@ -8,3 +8,4 @@ d = "ss"
 with tf.Session()as sess:
    b = sess.run(a)
    e = 1
+da =1 
