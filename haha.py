@@ -11,3 +11,4 @@ with tf.Session()as sess:
 da =1 
 a = 3
 b = 6
+b = 4
