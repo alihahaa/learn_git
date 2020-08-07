@@ -3,3 +3,4 @@ def da(self, parameter_list):
 abc = 1
 a = [1,2,3]
 c = 123
+x = 123
